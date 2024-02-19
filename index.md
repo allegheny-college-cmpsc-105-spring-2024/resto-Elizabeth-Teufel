@@ -17,8 +17,7 @@ Whether you choose to take it with you for a delightful treat on the go, or savo
 
 ## <span style="color💙">Our Baker</span>
 
-![logo](./assets/images/IMG_7935.jpg)
-width="50" height="50"
+![logo](./assets/images/IMG_7935.jpg){:width="200"}
 
 ## <span style="color:blue">Reviews</span>
 
