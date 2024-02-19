@@ -15,11 +15,9 @@ The Take It or Leave it bakery is the perfect place to relax and meet up with fr
 
 Whether you choose to take it with you for a delightful treat on the go, or savor it in our cozy bakery space, be prepared to embark on a culinary journey that will make you say, "Take It!" every time. Welcome to Take It or Leave It Bakery – where every bite is a choice you'll savor.
 
-![logo](./assets/images/magnifying-glass-logo.jpeg){:width="200"}
+## <span style="color💙">Our Baker</span>
 
-## <span style="color💙">Our Bakers</span>
-
-
+![logo](./assets/images/IMG_7935.jpg){:width="200"}
 
 ## <span style="color:blue">Reviews</span>
 
@@ -32,17 +30,3 @@ Whether you choose to take it with you for a delightful treat on the go, or savo
 
 ## <span style="color:green">Resources</span>
 
-- Fundamentals of Data Visualization
-    - [Full Text](https://clauswilke.com/dataviz/)
-- Making Sense of Data by Glenn J. Myatt and Wayne P. Johnson
-    - [I. Exploratory Data Analysis](https://ebookcentral.proquest.com/lib/allegheny-ebooks/detail.action?pq-origsite=summon&docID=1729064)
-    - [II. Data Visualization](https://ebookcentral.proquest.com/lib/allegheny-ebooks/detail.action?pq-origsite=summon&docID=427614)
-    - [III. Interactive Visualizations](https://ebookcentral.proquest.com/lib/allegheny-ebooks/detail.action?pq-origsite=summon&docID=697915)
-- Naked statistics: stripping the dread from the data by Charles J. Wheelan
-    - [Google Preview](https://books.google.com/books/about/Naked_Statistics_Stripping_the_Dread_fro.html?id=BgFJfC_CrTAC)
-- Natural Resources Biometrics by Diane Kiarnan
-    - [Full Text](https://milnepublishing.geneseo.edu/natural-resources-biometrics/chapter/chapter-1-descriptive-statistics-and-the-normal-distribution/)
--  Python Data Science Handbook by Jake VanderPlas
-    - [Full Text](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
-- Python for Data Analysis, 3E by Wes McKinney
-    - [Full Text](https://wesmckinney.com/book/)
