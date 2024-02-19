@@ -3,7 +3,7 @@ title: Take it or Leave it Bakery
 
 author: Master Chef Elizabeth
 
-gtag('config', 'G-S2G89K7V1J');
+google_analytics: G-S2G89K7V1J
 
 theme: minima
 
