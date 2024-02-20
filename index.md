@@ -25,7 +25,7 @@ Delilah has been our head baker here at Take it or Leave it Bakery for the past 
 
 
 
-## <span style="color:blue">Reviews</span>
+## Reviews
 
 >"best deserts I've had in a long time, better than my Grandmas"
 -happy customer
