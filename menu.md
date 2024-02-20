@@ -1,6 +1,6 @@
 ---
 layout: page
-title: amazing menu
+title: Here is Our Menu
 permalink: /menu
 nav: true
 ---
