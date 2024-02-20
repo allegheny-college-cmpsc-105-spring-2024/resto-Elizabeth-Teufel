@@ -14,7 +14,7 @@ takeitorleaveit@gmail.com
 
 ## Hours
 
-Monday-Friday 7:00am to 5pm
+Monday-Friday 7:00am to 5:00pm
 
 ## Come stop by!
 
