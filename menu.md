@@ -5,7 +5,7 @@ permalink: /menu
 nav: true
 ---
 
-## Menu
+## <span style="color:blue">Menu</span>
 
 #### Chocolate Croissant
 
