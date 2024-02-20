@@ -3,7 +3,7 @@ layout: post
 title: Take it or Leave it Bakery
 ---
 
-## <span style="color:green">Welcome to Take It or Leave It Bakery</span>
+## <span style="color:blue">Welcome to Take It or Leave It Bakery</span>
 
 We bake it and you eat it! Reward your taste buds with one of our many delicious cakes and pastries.
 
@@ -31,9 +31,6 @@ Delilah has been our head baker here at Take it or Leave it Bakery for the past 
 
 >"I've started getting my morning breakfast coffee here every day, it's so tasty and affordable"
 -happy customer
-
-
-## <span style="color:green">Resources</span>
 
 
 
