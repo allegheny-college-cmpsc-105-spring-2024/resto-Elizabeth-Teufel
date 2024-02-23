@@ -11,3 +11,5 @@ If you were a real restaurant owner, explain how this information could help
 you improve your business and why you came to your conclusions.
 
 TODO: include at least one analytics plot to back up your claims.
+
+![lettuce](./assets/images/Easy-Chocolate-Croissant_IG-3.jpg){:width="200"}
