@@ -17,3 +17,5 @@ They were all delicious and I was not able to sleep for 1 week after due to all 
 I also ate some of their donuts and french toast which were delicious as well. 
 Overall I think my date here went super well because of how delicious and cute this café was so I give it a 10/10. 
 I will definitely bring all my friends and buy them all multiple coffees so they can stay as caffeinated as me and we can just have a great time. 
+
+https://allegheny-college-cmpsc-105-spring-2024.github.io/resto-cocca01/
