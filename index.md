@@ -33,6 +33,11 @@ Delilah has been our head baker here at Take it or Leave it Bakery for the past 
 >"I've started getting my morning breakfast coffee here every day, it's so tasty and affordable"
 -happy customer
 
+> "Take it or Leave it offers an extensive menu that promises a culinary journey through diverse flavors and dishes"
+-Muhammad
+
+> "(They bake it fresh every day.) Even my least favorite baked good–the French croissant– is not bad."
+-Renee
 
 
 
