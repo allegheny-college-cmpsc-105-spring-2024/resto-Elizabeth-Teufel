@@ -1,3 +1,10 @@
+layout: post
+# TODO: update the title inside the quotes to suit your restaurant review needs
+title: "Fusion Flavors Review"
+permalink: explorations/review3
+nav: true
+---
+
 Fusion Flavors
 
 I tried the signature dish of fusion tacos. 
