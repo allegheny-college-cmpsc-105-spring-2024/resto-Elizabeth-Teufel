@@ -15,3 +15,5 @@ You also know the information you are trying to convey through your website is n
 
 
 ![lettuce](./assets/images/image-002.jpg){:width="200"}
+
+[Link to Analytics](./assets/images/image-002.jpg)
