@@ -18,4 +18,4 @@ I would definitely want to try it next time I’m in the area.
 I also found out they host events, I think this could be a great place to have a party or birthday. 
 I also think they would be very good to cater for a work event or meeting. 
 
-https://allegheny-college-cmpsc-105-spring-2024.github.io/resto-Faarisc/
+[go to support website](https://allegheny-college-cmpsc-105-spring-2024.github.io/resto-Faarisc/)
