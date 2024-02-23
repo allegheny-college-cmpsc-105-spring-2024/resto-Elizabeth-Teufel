@@ -1,21 +1,32 @@
 ---
 layout: page
-title: amazing menu
+title: Here is Our Menu
 permalink: /menu
 nav: true
 ---
 
-## menu
+## <span style="color:blue">Menu</span>
 
-this is the menu
+#### Chocolate Croissant
 
-- TODO: add at least 1 menu item. Be as descriptive as possible to get a good review!
-- TODO: make sure the menu item has at least one image
+![lettuce](./assets/images/Easy-Chocolate-Croissant_IG-3.jpg){:width="200"}
 
-### menu item 1
+- price: $5
 
-#### lettuce
+### French Croissants
 
-- price: $100
+![lettuce](./assets/images/French-Croissants-SM-2363.jpg){:width="200"}
 
-![lettuce](assets/images/magnifying-glass-logo.jpeg){:width="200"}
+- price: $5
+
+### Homemade Bakery French Bread
+
+![lettuce](./assets/images/Homemade-Bakery-French-Bread.jpg){:width="200"}
+
+- price: $7
+
+### Triple Chocolate Cake
+
+![lettuce](./assets/images/triple-chocolate-cake-4.jpg){:width="200"}
+
+- price: $3
