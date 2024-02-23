@@ -14,4 +14,4 @@ If you are a real restaurant and you look at your google analytics and no one is
 You also know the information you are trying to convey through your website is not being seen. 
 
 
-![lettuce](./assets/images/image-002.png){:width="200"}
+![lettuce](./assets/images/image-002.jpg){:width="200"}
